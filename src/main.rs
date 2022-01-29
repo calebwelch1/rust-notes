@@ -2,13 +2,15 @@
 mod print;
 mod vars;
 mod types;
+mod guess;
 
 fn main() {
     // println!("Hello, world!");
-    print::run();
+    // print::run();
     // the thing u imported, run the main
-    vars::run();
+    // vars::run();
     types::run();
+    guess::run();
 }
 
 // can use: cargo run
