@@ -1,0 +1,1 @@
+C:\Users\germa\Documents\code\rust-notes\target\debug\rust-notes.exe: C:\Users\germa\Documents\code\rust-notes\src\main.rs C:\Users\germa\Documents\code\rust-notes\src\print.rs C:\Users\germa\Documents\code\rust-notes\src\types.rs C:\Users\germa\Documents\code\rust-notes\src\vars.rs
